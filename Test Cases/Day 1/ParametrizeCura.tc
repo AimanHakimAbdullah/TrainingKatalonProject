@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ParametrizeCura</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c928e3c-6418-475c-a0ca-6462d9a70585</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>daab8085-a074-4935-bf4b-cd1e73f2635b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Cura</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17a3ac2b-54f2-44db-8a4e-b34fac473258</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>daab8085-a074-4935-bf4b-cd1e73f2635b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Facility</value>
+      <variableId>325afbbb-2609-4d52-a803-bac23c9df4d8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'None'</defaultValue>
+      <description></description>
+      <id>17a3ac2b-54f2-44db-8a4e-b34fac473258</id>
+      <masked>false</masked>
+      <name>program</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>325afbbb-2609-4d52-a803-bac23c9df4d8</id>
+      <masked>false</masked>
+      <name>Facility</name>
+   </variable>
+</TestCaseEntity>

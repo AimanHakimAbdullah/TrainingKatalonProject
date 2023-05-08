@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_option NCR focused, 1 of 4. 4 results a_c0b78b</name>
+   <tag></tag>
+   <elementGuidId>b3b6e29f-b36e-43cb-95f2-43ede2ef430d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='state']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#state</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d292ff75-4da8-4d4c-89ec-101cdf1dc26e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-2b097c-container</value>
+      <webElementGuid>e199c898-1cd3-4005-8505-4c509bfabfab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>state</value>
+      <webElementGuid>b94eb2e4-bb56-43f7-ad0b-0095ac29b2ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   option NCR focused, 1 of 4. 4 results available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.Select StateNCRUttar PradeshHaryanaRajasthan</value>
+      <webElementGuid>c60227d7-3374-45a1-ba89-13d759033328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;state&quot;)</value>
+      <webElementGuid>2a5fe2ae-4876-46b3-8551-d2d7454f4f0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='state']</value>
+      <webElementGuid>a87211ae-a19d-4759-9b17-9018ec5fc9cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='stateCity-wrapper']/div[2]/div</value>
+      <webElementGuid>e72f0c48-85d4-4521-b8e1-f7e8091bafc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State and City'])[1]/following::div[2]</value>
+      <webElementGuid>6ae4ea47-732e-4300-8f81-5d75b845f3a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current Address'])[1]/following::div[5]</value>
+      <webElementGuid>8676d466-a5a8-4745-a15d-e7e9fdb4f3cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]/div</value>
+      <webElementGuid>119e6245-280b-4072-8704-e535436e4592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'state' and (text() = '   option NCR focused, 1 of 4. 4 results available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.Select StateNCRUttar PradeshHaryanaRajasthan' or . = '   option NCR focused, 1 of 4. 4 results available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.Select StateNCRUttar PradeshHaryanaRajasthan')]</value>
+      <webElementGuid>cea49db9-cf28-410f-8299-822f02a21ac6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
